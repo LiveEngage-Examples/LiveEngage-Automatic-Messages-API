@@ -1,2 +1,2 @@
 # LiveEngage-Automatic-Messages-API
-temp
+This repository contains Node.js examples for the LiveEngage Automatic Messages API.
